@@ -12,6 +12,12 @@ Create `.env` file in the root directory from `.env.example` and update the `PRI
 
 Note: You can get some testnet CFX from [eSpace faucet](https://efaucet.confluxnetwork.org/)
 
+Install dependencies
+
+```shell
+yarn
+```
+
 ### Common hardhat tasks
 
 After installing the dependencies(`npm install` or `yarn`), try running some of the following tasks:
