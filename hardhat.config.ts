@@ -24,8 +24,8 @@ const config: HardhatUserConfig = {
         network: 'espaceTestnet',
         chainId: 71,
         urls: {
-          apiURL: 'https://evmapi-testnet.confluxscan.io/api/',
-          browserURL: 'https://evmtestnet.confluxscan.io/',
+          apiURL: 'https://evmapi-testnet.confluxscan.org/api/',
+          browserURL: 'https://evmtestnet.confluxscan.org/',
         },
       },
     ],
